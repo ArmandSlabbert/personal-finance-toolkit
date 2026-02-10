@@ -1,81 +1,114 @@
-# 💰 Personal Budget Toolkit
+# 📘 Personal Budget Toolkit  
+**Location:** `personal-finance-toolkit/budgeting`
 
 ## Overview
-This folder contains a practical budgeting model used to plan, control, and monitor personal cash flow.
+This directory contains a structured budgeting model used to manage personal income, expenditure, savings, and financial commitments.
 
-The aim is to create clarity over income, expenses, savings, and financial priorities so that decisions are intentional rather than reactive.
+The objective is to ensure personal finances are:
 
-Good budgeting builds freedom, not restriction.
+- visible  
+- controlled  
+- sustainable  
+- aligned to goals  
+
+Strong budgeting enables informed decisions and long-term financial resilience.
 
 ---
 
-## What This Tool Helps Achieve
-The template is designed to:
+## What This Toolkit Covers
+The model supports disciplined management of:
 
-- provide visibility over spending patterns  
-- confirm monthly affordability  
-- highlight surplus or deficit positions  
-- prioritise savings and debt reduction  
-- prepare for irregular or unexpected costs  
-- support long-term financial planning  
+- income planning  
+- fixed obligations  
+- variable spending  
+- savings allocation  
+- surplus / deficit identification  
+- affordability assessment  
+
+It applies to **monthly personal financial management**.
 
 ---
 
 ## Repository Contents
 
-### 📄 Budget Model
+### 📄 Main Budget Model
 - **Personal Budget-(Generic).xlsx**  
-  A structured template that categorises income, fixed costs, variable expenses, and savings allocations.
+  Provides a repeatable framework for planning and reviewing personal cash flow.
 
-Outputs typically include:
-- total income vs total expenses  
-- net surplus / shortfall  
-- category breakdowns  
-- areas for optimisation  
-
----
-
-## How To Use
-1. Record reliable monthly income.  
-2. Capture committed fixed obligations first.  
-3. Estimate day-to-day variable spend honestly.  
-4. Allocate savings and financial goals.  
-5. Review the resulting position and adjust behaviour where needed.
-
-The value comes from consistency and regular review.
+**Typical outputs include:**
+- income vs expense view  
+- net position  
+- spending breakdown  
+- optimisation opportunities  
 
 ---
 
-## Core Budgeting Principles
+## Control Principles Embedded in This Toolkit
 
-### 1) Plan Before Spending
-Money should have direction.
+### 1) Visibility Drives Control
+You cannot manage what you cannot see.
 
-### 2) Be Realistic
-Over-optimistic assumptions break budgets.
+### 2) Prioritise Commitments
+Essential obligations come first.
 
-### 3) Track Trends
-Patterns reveal opportunities to improve.
+### 3) Plan Savings Intentionally
+Savings should be structured, not accidental.
 
-### 4) Review Monthly
-Control improves with repetition.
+### 4) Review Regularly
+Consistency improves accuracy and behaviour.
 
----
-
-## Who This Is Useful For
-Helpful for:
-- individuals improving financial awareness  
-- professionals managing cash responsibly  
-- anyone preparing for major life goals  
-- people wanting stronger savings habits  
+### 5) Early Adjustment
+Small corrections prevent larger problems.
 
 ---
 
-## Why This Matters
-Financial stability reduces stress, improves decision quality, and allows focus on growth instead of survival.
+## Core Activities
+
+### Income Planning
+Capture reliable recurring earnings.
+
+### Expense Allocation
+Separate fixed and variable costs.
+
+### Savings & Goals
+Allocate funds toward future priorities.
+
+### Monitoring
+Assess actual vs planned outcomes.
+
+---
+
+## When To Use This Toolkit
+Use this model when:
+
+- planning a new month  
+- assessing affordability  
+- reviewing spending behaviour  
+- setting savings targets  
+- preparing for major financial commitments  
+
+---
+
+## Expected Outcomes From Using This Toolkit
+Consistent application should lead to:
+
+- improved financial awareness  
+- better spending decisions  
+- stronger savings discipline  
+- reduced financial stress  
+- clearer goal achievement  
+
+---
+
+## Related Items (Recommended)
+Often complemented by:
+
+- debt tracking tools  
+- emergency fund planning  
+- investment planning models  
+- long-term financial forecasting  
 
 ---
 
 ## Disclaimer
-This is a generic educational template and should be adapted to individual circumstances.
-
+This is a generic educational template for portfolio purposes and should be tailored to individual circumstances.
